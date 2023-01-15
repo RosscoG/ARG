@@ -127,3 +127,25 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VScode
+**/.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+**.tempCodeRunnerFile.py
+
+## VisualStudioCode Patch
+## Ignore all local history of files
+**/.history
+
+## file locks introduced since 7.x
+*.lck
+
+## Built Visual Studio Code Extensions
+*.vsix
+
+## RG C dev with vscode
+**.stackdump
