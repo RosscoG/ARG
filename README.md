@@ -1,29 +1,38 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
+<!-- 
+MIT License
+
+Copyright (c) 2021 Othneil Drew
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. -->
+
+[Original Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+---
+
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -34,10 +43,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">ARG Lang</h3>
+<h1 align="center">ARG Lang</h1>
 
   <p align="center">
-    Augmented RG style code language - fast (to type), short, inefficient
+    Augmented RG style code language - fast, compact, inefficient (probably)
     <br />
     <a href="https://github.com/RosscoG/ARG"><strong>Explore the docs »</strong></a>
     <br />
@@ -79,73 +88,36 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ### Built With
-
-* [![Next][Next.js]][Next-url] -->
+ARG is a simple programming language with heavy emphasis on compact and symbolic code.  The primary goal is to refresh and update knowledge of various languages and systems design during the development.  If it turns into a useful tool as a quick calculator, all the better.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+**TODO**
 
 ### Prerequisites
-
-<!-- This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ``` -->
+**TODO**
 
 ### Installation
-
-<!-- 1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/RosscoG/ARG.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ``` -->
+Minimal/None  
+**TODO**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The idea ultimately would be to throw code from file or terminal at it for an instant response.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
+1. [ ] Simple 4 banger
+1. [ ] Flow control
+1. [ ] 
 
 See the [open issues](https://github.com/RosscoG/ARG/issues) for a full list of proposed features (and known issues).
 
@@ -153,11 +125,12 @@ See the [open issues](https://github.com/RosscoG/ARG/issues) for a full list of 
 
 
 
-<!-- CONTRIBUTING -->
 ## Contributing
+As this is a personal learning tool/project for now contributions would be tricky to manage. Will see once I get it to some sort of usefulness.
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+<!-- Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. -->
 
+That being said:  
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
@@ -170,28 +143,20 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE.txt](/LICENSE.txt) for more information.
+Distributed under the MIT License. See [LICENSE](/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
 ## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - gordonross308@hotmail.com
 
 Project Link: [https://github.com/RosscoG/ARG](https://github.com/RosscoG/ARG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * []()
@@ -214,9 +179,3 @@ Project Link: [https://github.com/RosscoG/ARG](https://github.com/RosscoG/ARG)
 [issues-url]: https://github.com/RosscoG/ARG/issues
 [license-shield]: https://img.shields.io/github/license/RosscoG/ARG.svg?style=for-the-badge
 [license-url]: https://github.com/RosscoG/ARG/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-
-<!-- [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/ -->
